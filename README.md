@@ -70,5 +70,13 @@
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200"/>
 </p>
 
+
+## 👀 Anime Visitor Counter
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Frame121/count.svg" />
+  <br>
+  <sub>โผล่มาแล้วทุกคน 😆</sub>
+</p>
+
 > 💡 “Code ก่อนนอน, Debug หลังตื่น ☕🐛”  
 > 💖 โสดอยู่ใน Stack Overflow แต่หัวใจเต็มไปด้วย Bugs!
