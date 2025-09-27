@@ -1,22 +1,49 @@
-# หวัดดีฮะะะะะ!!🌟
+# 🌌 FelixCraft Web Playground
+
+<h1 align="center" style="background: linear-gradient(90deg,#00F71E,#00BFFF); -webkit-background-clip: text; color: transparent;">
+✨ สวัสดีฮะะะะ!! ✨
+</h1>
+
+<p align="center">
+กำลังฝึกเขียน <strong>HTML</strong>, <strong>CSS</strong>, และ <strong>JavaScript</strong>  
+เข้า Discord ของผมได้เลย: <a href="https://discord.gg/dnHNdRNZnq">🌟 Discord Server ของเรา 🌟</a>
+</p>
+
 ---
 
-## ผมกำลังฝึกเขียนโค๊ดอย่าง html , css , js อยู่ฮะ! เข้า Discord ผมมาก็ได้นะฮะะ <a href='https://discord.gg/dnHNdRNZnq'>ดิสเราเองงง!</a>
-</h3>
+## 🛠 ฟีเจอร์ที่สนุก ๆ
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mitr&pause=1000&color=00F71E&width=435&lines=%E0%B8%94%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A;%E0%B8%82%E0%B8%AD%E0%B8%95%E0%B8%B1%E0%B8%87%3F;%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%84%E0%B8%94%E0%B9%89+Server+%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%99%E0%B8%99;%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%84%E0%B8%94%E0%B9%89+Server+%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87+Visperhost+And+Aicloud)](https://git.io/typing-svg)
+- 🎨 Background Gradient + Floating Particles
+- 💻 Typing Effect Animated Text
+- 🚀 ปุ่ม Discord Hover Scale Effect
+- 🔥 Animated H1 Text Glow
+- 🪄 Gradient Text & Shadow Effects
+- 🧩 HTML, CSS, JS Playground
+
 ---
 
-FelixCraft Official 
+## 🎮 ตัวอย่าง Typing Effect
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mitr&pause=1000&color=00F71E&width=500&lines=กำลังฝึกเขียน+HTML;+CSS+และ+JS;+อยากให้ดูเท่ๆ+มากขึ้น!)
+
+---
+
+## ⚡ เทคนิค & Library
+
+- HTML5 Semantic Tags
+- CSS3 Animations / Keyframes / Hover Effects
+- Google Fonts Integration (`Mitr`)
+- [readme-typing-svg](https://readme-typing-svg.herokuapp.com/)
+- Badge แสดงภาษาและสกิล:
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📌 วิธีใช้งาน
+
+1. Clone หรือดาวน์โหลด repo
 ```bash
-<!DOCTYPE html>
-<html lang="th">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Frame121</title>
-</head>
-<body>
-    <h1>โสด🤍</h1>
-</body>
-</html>
+git clone https://github.com/USERNAME/FelixCraftWeb.git
