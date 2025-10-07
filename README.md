@@ -73,5 +73,8 @@
 > 💡 “Code ก่อนนอน, Debug หลังตื่น ☕🐛”  
 > 💖 โสดอยู่ใน Stack Overflow แต่หัวใจเต็มไปด้วย Bugs!
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/957864760085446736)](https://discord.com/users/957864760085446736)
+<a href="https://discord.com/users/957864760085446736" target="_blank">
+  <img src="https://lanyard.cnrad.dev/api/957864760085446736" alt="Discord Presence" />
+</a>
+
 
