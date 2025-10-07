@@ -5,8 +5,7 @@
 </p>
 
 
-[![Discord Presence](https://images.weserv.nl/?url=lanyard.cnrad.dev/api/957864760085446736)](https://discord.com/users/957864760085446736)
-
+[![Discord Widget](https://discord.com/api/guilds/1188003127551594546/widget.png)](https://discord.com/users/957864760085446736)
 
 
 ---
