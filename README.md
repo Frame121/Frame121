@@ -74,3 +74,7 @@
 > 💖 โสดอยู่ใน Stack Overflow แต่หัวใจเต็มไปด้วย Bugs!
 > 
 [![Discord Widget](https://discord.com/api/guilds/1188003127551594546/widget.png)](https://discord.com/users/957864760085446736)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Frame121/Frame121&type=Date)](https://www.star-history.com/#Frame121/Frame121&Date)
