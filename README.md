@@ -1,80 +1,23 @@
-# 🌟 โสดอยู่ใน Stack Overflow 🌟
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mitr&pause=1000&color=F7B200&background=FFFFFF00&random=true&width=435&lines=%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%AE%E0%B8%B0;%E0%B8%9C%E0%B8%A1%E0%B9%80%E0%B8%9F%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%AD%E0%B8%87%E0%B8%87%E0%B8%87%E0%B8%87;Code+%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%AD%E0%B8%99+%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%9A%E0%B8%B1%E0%B8%84%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%B7%E0%B9%88%E0%B8%99;%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B9%81%E0%B8%9F%E0%B8%99;%E0%B8%AB%E0%B8%B2%E0%B9%84%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%94%E0%B8%B5%E0%B8%99%E0%B8%B0%E0%B8%B0...;%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%95%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%87%E0%B8%87!!;%E0%B9%82%E0%B8%AA%E0%B8%94%E0%B8%84%E0%B8%B1%E0%B8%9A%E0%B8%9A" alt="Typing SVG" /></a>
-</p>
-
----
-
-## 💻 เกี่ยวกับผม
-- ชอบเขียน **Code ก่อนนอน**  
-- โสด 💖 และหัวใจเต็มไปด้วย **Bug** 🐞  
-
----
-
-## ⚡ สกิล & Badge
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</p>
-
----
-
-## 🛠️ Programs & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white">
-  <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/Xcode-007AFF?style=for-the-badge&logo=xcode&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Terminal-121011?style=for-the-badge&logo=gnubash&logoColor=white">
-</p>
-
----
-
-## 🌐 ติดต่อ
-<p align="center">
-  <a href="https://discord.gg/dnHNdRNZnq" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="https://github.com/Frame121" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frame121&show_icons=true&theme=tokyonight&count_private=true&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frame121&theme=tokyonight&hide_border=true">
-</p>
-
----
-
-## ✨ Fun Section
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200"/>
-</p>
-
-> 💡 “Code ก่อนนอน, Debug หลังตื่น ☕🐛”  
-> 💖 โสดอยู่ใน Stack Overflow แต่หัวใจเต็มไปด้วย Bugs!
-> 
-[![Discord Widget](https://discord.com/api/guilds/1188003127551594546/widget.png)](https://discord.com/users/957864760085446736)
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Frame121/Frame121&type=Date)](https://www.star-history.com/#Frame121/Frame121&Date)
+<h1>Hi 👋, I'm </h1>
+<p>Turning caffeine into code ☕</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://dev.to/Framelpo" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
+<a target="_blank" href="https://www.facebook.com/FrameLpo" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
+<a target="_blank" href="https://www.youtube.com/@vframe121" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Frame121&show_icons=true&locale=en" alt="Frame121" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frame121&" alt="Frame121" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frame121&show_icons=true&locale=en&layout=compact" alt="Frame121" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Frame121" alt="Frame121" /></a></p>
