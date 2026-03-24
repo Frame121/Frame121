@@ -1,18 +1,77 @@
 <h1>Hi 👋, I'm Frame121</h1>
 <p>Turning caffeine into code ☕</p>
-<p>ผมชอบเขียนบัค</p>
+<p>ผมชอบเขียนบัค 😈</p>
 
 <h2>🚀 Core Skills</h2>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> HTML &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/> CSS &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> JavaScript &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> React &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="20"/> Next.js
+  <span style="background:#fff;padding:6px;border-radius:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/></span>
+  HTML &nbsp;
+
+  <span style="background:#fff;padding:6px;border-radius:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/></span>
+  CSS &nbsp;
+
+  <span style="background:#fff;padding:6px;border-radius:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/></span>
+  JavaScript &nbsp;
+
+  <span style="background:#fff;padding:6px;border-radius:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/></span>
+  React &nbsp;
+
+  <span style="background:#fff;padding:6px;border-radius:8px;"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="20"/></span>
+  Next.js
 </p>
 
 <h2>🛠️ Languages and Tools</h2>
 <p>
+
+<span style="background:#fff;padding:8px;border-radius:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42"/>
+</span>
+
+<span style="background:#fff;padding:8px;border-radius:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42"/>
+</span>
+
+<span style="background:#fff;padding:8px;border-radius:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
+</span>
+
+<span style="background:#fff;padding:8px;border-radius:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42"/>
+</span>
+
+<span style="background:#fff;padding:8px;border-radius:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42"/>
+</span>
+
+<span style="background:#fff;padding:8px;border-radius:10px;">
+<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="42"/>
+</span>
+
+<span style="background:#fff;padding:8px;border-radius:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42"/>
+</span>
+
+<span style="background:#fff;padding:8px;border-radius:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+</span>
+
+<span style="background:#fff;padding:8px;border-radius:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42"/>
+</span>
+
+<span style="background:#fff;padding:8px;border-radius:10px;">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42"/>
+</span>
+
+<span style="background:#fff;padding:8px;border-radius:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42"/>
+</span>
+
+<span style="background:#fff;padding:8px;border-radius:10px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="42"/>
+</span>
+
+</p>
 
 <!-- Core -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42"/>
