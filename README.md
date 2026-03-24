@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Frame121</h1>
 <p>Turning caffeine into code ☕</p>
-<p>ผมชอบเขียนบัค 😈</p>
+<p>ผมชอบเขียนบัค</p>
 
 <h2>🚀 Core Skills</h2>
 <p>
