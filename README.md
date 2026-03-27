@@ -17,12 +17,19 @@
 ## 🌸 About Me
 
 <p align="center">
-  🎀 <strong>Frontend Developer</strong> (Dev ตัวน้อย) <br/>
+  🌸 <strong>สวัสดีค่าา ~ มาทำความรู้จักกันหน่อยนะะ</strong> 🌸 <br/>
+  <br/>
+  🎀 ชื่อ <strong>เฟรม</strong> (Frame121) ค่า ~ <br/>
+  🎂 อายุ <strong>14</strong> ปี 💖 <br/>
+  👨‍💻 <strong>Frontend Developer</strong> (Dev ตัวน้อย) ~ <br/>
   💻 ทำเว็บเป็นหลัก <strong>"เพราะทุกคนต้องใช้เว็บอยู่แล้วหนิ!!"</strong> <br/>
   🐞 เขียนโค้ดทีไร บัคก็มาทุกที (เป็นเอกลักษณ์ประจำตัวค่ะะะะ) ✨ <br/>
   🎮 และสิ่งที่ไม่ใช่ Code ก็มีน้าา เราก็ทำ ~ <strong>Server Roleplay Minecraft</strong> <br/>
-  ชื่อ <strong> FelixCraft </strong> ไงละะ! <br/>
-  <strong><a href="https://felixcraft.xyz">✨ felixcraft.xyz ✨</a></strong> ถ้าสนใจละก็ มาหากันได้นะะ
+  ชื่อ <strong> FelixCraft 💗</strong> ไงละะ! <br/>
+  👑 (CEO ของเซิฟเวอร์นี้ด้วยนะ!) ~ <br/>
+  🌸 <strong><a href="https://felixcraft.xyz">✨ felixcraft.xyz ✨</a></strong> ถ้าสนใจละก็ มาหากันได้นะะ <br/>
+  <br/>
+  🧐 <em>ป.ล. เพศชายนะค้าบ ~ (ฮั่นแน่! โดนหรอกว่าหนูเป็น ผ.ญ รึเปล่าเนี่ย)💕</em>
 </p>
 
 ---
