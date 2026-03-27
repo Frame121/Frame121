@@ -20,6 +20,8 @@
   🎀 <strong>Frontend Developer</strong> (Dev ตัวน้อย) <br/>
   💻 ทำเว็บเป็นหลัก <strong>"เพราะทุกคนต้องใช้เว็บอยู่แล้วหนิ!!"</strong> <br/>
   🐞 เขียนโค้ดทีไร บัคก็มาทุกที (เป็นเอกลักษณ์ประจำตัวค่ะะะะ) ✨ <br/>
+  🎮 และสิ่งที่ไม่ใช่ Dev ก็มีน้าา ~ <strong>Server Roleplay Minecraft</strong> <br/>
+  ชื่อ <strong> FelixCraft </strong> ไงละะ! (คือเราเป็น CEO ด้วยนะ!) <br/>
 </p>
 
 ---
