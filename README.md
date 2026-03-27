@@ -22,7 +22,7 @@
   🐞 เขียนโค้ดทีไร บัคก็มาทุกที (เป็นเอกลักษณ์ประจำตัวค่ะะะะ) ✨ <br/>
   🎮 และสิ่งที่ไม่ใช่ Code ก็มีน้าา เราก็ทำ ~ <strong>Server Roleplay Minecraft</strong> <br/>
   ชื่อ <strong> FelixCraft </strong> ไงละะ! <br/>
-  <strong><a href="https://felixcraft.xyz">✨ felixcraft.xyz ✨</a></strong> ถ้าสนใจละก็ มาหาหนูได้
+  <strong><a href="https://felixcraft.xyz">✨ felixcraft.xyz ✨</a></strong> ถ้าสนใจละก็ มาหากันได้นะะ
 </p>
 
 ---
