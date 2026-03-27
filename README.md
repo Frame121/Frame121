@@ -2,20 +2,22 @@
 
 <p align="center">
 💖 Turning caffeine into code ☕ <br/>
-🎀 หนูชอบเขียนบัคค่ะะ!! 
+🎀 หนูชอบเขียนบัคค่ะะะะ!! 
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/9vRAkYj9wQkAAAAC/oshi-no-ko-ruby.gif" width="200"/>
+  <img src="https://media.tenor.com/9vRAkYj9wQkAAAAC/oshi-no-ko-ruby.gif" width="190"/>
 </p>
 
 ---
 
 ## 🌸 About Me
 
-- 🎀 Frontend Developer ที่ทำได้ไม่ค่อยมากกก
-- 💻 ทำเว็บ เป็นหลักก เพราะ เว็บคือสิ่งที่ทุกคนเจอยังไงละะะะ!
-- 🐞 เขียนทีไรก็มีบัคตลอด (เป็นสไตล์)
+<p align="center">
+🎀 Frontend Developer <br/>
+💻 ทำเว็บเป็นหลัก เพราะทุกคนต้องใช้เว็บอยู่แล้ววว! <br/>
+🐞 เขียนโค้ดทีไร บัคก็มาทุกที (เป็นเอกลักษณ์ค่ะะะ) ✨
+</p>
 
 ---
 
@@ -39,13 +41,13 @@
 
 <p align="center">
   <a href="https://dev.to/Framelpo" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-ff69b4?style=for-the-badge&logo=devdotto&logoColor=white"/>
+    <img src="https://img.shields.io/badge/dev.to-ff85c1?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/FrameLpo" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-ff4da6?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/facebook-ff66b2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@vframe121" target="_blank">
-    <img src="https://img.shields.io/badge/youtube-ff1a75?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/youtube-ff3385?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
@@ -54,15 +56,15 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frame121&show_icons=true&theme=radical&cache_seconds=86400&v=1"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Frame121&show_icons=true&theme=radical&cache_seconds=86400&v=2"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Frame121&theme=radical&v=1"/>
+  <img src="https://streak-stats.demolab.com?user=Frame121&theme=radical&v=2"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frame121&layout=compact&theme=radical&cache_seconds=86400&v=1"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frame121&layout=compact&theme=radical&cache_seconds=86400&v=2"/>
 </p>
 
 ---
