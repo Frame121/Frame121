@@ -1,56 +1,71 @@
-<h1>Hi 👋, I'm Frame121</h1>
-<p>Turning caffeine into code ☕</p>
-<p>หนูชอบเขียนบัคค่ะะ!!</p>
+<h1 align="center">✨ Hi 👋, I'm Frame121 ✨</h1>
 
-<h2>🚀 Core Skills</h2>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="42"/>
+<p align="center">
+💖 Turning caffeine into code ☕<br/>
+🎀 หนูชอบเขียนบัคค่ะะ!!
 </p>
 
-<h2>🛠️ Languages and Tools</h2>
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
-
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42"/>
-
-  <!-- IDE -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="42"/>
+<p align="center">
+  <img src="https://media.tenor.com/9vRAkYj9wQkAAAAC/oshi-no-ko-ruby.gif" width="200"/>
 </p>
 
-<h2>⚡️ Where to find me</h2>
-<p>
-<a href="https://dev.to/Framelpo" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=devdotto&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/FrameLpo" target="_blank">
-  <img src="https://img.shields.io/badge/facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="https://www.youtube.com/@vframe121" target="_blank">
-  <img src="https://img.shields.io/badge/youtube-cc0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+---
+
+## 🌸 About Me
+
+- 🎀 Frontend Dev 
+- 🐞 เขียนทีไรก็มีแต่บัคคค
+
+---
+
+## 🚀 Core Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,vite" />
 </p>
 
-<h2>📊 Stats</h2>
+---
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Frame121&show_icons=true&theme=tokyonight"/>
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,linux,git,vscode,idea" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frame121&theme=tokyonight"/>
+---
+
+## 💖 Social
+
+<p align="center">
+  <a href="https://dev.to/Framelpo">
+    <img src="https://img.shields.io/badge/dev.to-ff69b4?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/FrameLpo">
+    <img src="https://img.shields.io/badge/facebook-ff4da6?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@vframe121">
+    <img src="https://img.shields.io/badge/youtube-ff1a75?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frame121&layout=compact&theme=tokyonight"/>
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Frame121&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frame121&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frame121&layout=compact&theme=radical"/>
+</p>
+
+---
+
+<p align="center">
+  💗 Made with love by Frame121 💗
 </p>
