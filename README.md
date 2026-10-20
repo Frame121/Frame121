@@ -28,8 +28,7 @@
 <td width="50%" valign="top">
 
 ### 🚀 [Sorinpad Co.](https://sorinpad.org)
-ทำงานอยู่ที่นี่ ดูแลงานฝั่ง **frontend**
-และสร้างประสบการณ์เว็บที่ใช้งานง่ายและสวยงาม
+ทำงานอยู่ที่นี่
 
 <a href="https://sorinpad.org">sorinpad.org →</a>
 
