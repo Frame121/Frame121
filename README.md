@@ -25,7 +25,7 @@
 |---|---|
 | 💻 | learning & building frontend |
 | 🎮 | running **[FelixCraft](https://felixcraft.xyz)** — Minecraft Roleplay Server |
-| 🤍 | fan of **Monet BNK48** |
+| 🤍 | fan of **[Monet BNK48](https://www.instagram.com/monet.bnk48official/)** |
 
 <br/>
 
