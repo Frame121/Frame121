@@ -59,6 +59,39 @@
 
 <div align="center">
 
+✦ &nbsp; 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎 &nbsp; ✦
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🔴 [RedNavi](https://github.com/Helemen7/RedNavi)
+ร่วมพัฒนาหลักฐาน RX 7600 / Navi 33 สำหรับโปรเจกต์ AMD macOS driver
+
+[IP Discovery #10](https://github.com/Helemen7/RedNavi/pull/10) · [DRM evidence #11](https://github.com/Helemen7/RedNavi/pull/11) · [ASIC profile #12](https://github.com/Helemen7/RedNavi/pull/12)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🍒 [CherryRed](https://github.com/Frame121/CherryRed)
+งานวิจัย AMD GPU และเครื่องมือสำรวจ Navi 33 / RX 7600
+
+โฟกัสที่ diagnostic tooling, IP Discovery และหลักฐานที่ตรวจสอบซ้ำได้
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<sub>สถานะตามจริง: หลักฐาน Navi 33 บางส่วนถูกรวมแล้ว; การเริ่มต้น GPU และ Metal / WindowServer acceleration บน RX 7600 ยังไม่ผ่านการยืนยันบนฮาร์ดแวร์</sub>
+</p>
+
+<br/>
+
+<div align="center">
+
 ✦ &nbsp; 𝚜𝚝𝚊𝚌𝚔 &nbsp; ✦
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,tailwind,nodejs,python,git,linux,vscode,figma&theme=light" />
