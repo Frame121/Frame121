@@ -10,9 +10,9 @@
 <a href="https://felixcraft.sorinpad.org"><img src="https://img.shields.io/badge/%E2%9B%8F%EF%B8%8F_FelixCraft-CDB4F6?style=for-the-badge&labelColor=A98BE0" /></a>
 <img src="https://komarev.com/ghpvc/?username=Framelpo&label=visitors&color=B79CEB&labelColor=E9DDFB&style=for-the-badge" />
 
-<img src="assets/divider.svg" width="640" />
+<img src="divider.svg" width="640" />
 
-<img src="assets/hello.svg" height="54" />
+<img src="hello.svg" height="54" />
 
 <br/>
 
@@ -30,9 +30,9 @@
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="640" />
+<img src="divider.svg" width="640" />
 
-<img src="assets/working.svg" height="54" />
+<img src="working.svg" height="54" />
 
 <br/>
 
@@ -57,17 +57,17 @@
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="640" />
+<img src="divider.svg" width="640" />
 
-<img src="assets/stack.svg" height="54" />
+<img src="stack.svg" height="54" />
 
 <br/>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,tailwind,nodejs,python,git,linux,vscode,figma&theme=light" />
 
-<img src="assets/divider.svg" width="640" />
+<img src="divider.svg" width="640" />
 
-<img src="assets/stats.svg" height="54" />
+<img src="stats.svg" height="54" />
 
 <br/>
 
@@ -78,9 +78,9 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Framelpo&bg_color=00000000&color=9B7BD4&line=B79CEB&point=A98BE0&area=true&area_color=CDB4F6&hide_border=true" width="95%" />
 
-<img src="assets/divider.svg" width="640" />
+<img src="divider.svg" width="640" />
 
-<img src="assets/findme.svg" height="54" />
+<img src="findme.svg" height="54" />
 
 <br/>
 
